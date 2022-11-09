@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @riadafridishibly
+- 👀 I’m interested in Golang, DevOps, Backend, Linux, React
+- 🌱 I’m currently learning app development using web technologies and golang. 
+- 💞️ I’m looking to collaborate on golang, backend applications.
+- 📫 Email me at, riadafridishibly@gmail.com
