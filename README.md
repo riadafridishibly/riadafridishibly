@@ -1,7 +1,6 @@
 **Riad Afridi Shibly** — Software developer at Evatix, based in Dhaka.
 
-- Golang, TypeScript, And with agent all the languages I'm familiar with
-- Really into performance optimization
-- Like experimenting with different things/ideas
-- Like optimizing system design
-- Write at https://riad.run 
+- I love building software
+- Mostly golang, typescript, rust and sometimes swift (with the help from agents)
+- I do like optimizing for performance and user experience
+- Write at https://riad.run
